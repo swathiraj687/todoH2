@@ -1,0 +1,44 @@
+[
+    {
+        "test_case_name_enum": "com.example.todo.SmokeTest.contextLoads"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testGetTodos"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testGetNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testGetTodoById"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testPost"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testDbAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testPutNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testPut"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testDbAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testDeleteNotFound"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.todo.TodoControllerTests.testAfterDelete"
+    }
+]
